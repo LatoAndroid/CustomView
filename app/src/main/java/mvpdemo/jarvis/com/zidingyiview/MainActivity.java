@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import mvpdemo.jarvis.com.zidingyiview.leida.Fragment1;
-import mvpdemo.jarvis.com.zidingyiview.leida.Fragment2;
+import mvpdemo.jarvis.com.zidingyiview.tantan.Fragment2;
 
 public class MainActivity extends AppCompatActivity {
 
